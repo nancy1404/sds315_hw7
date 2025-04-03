@@ -23,5 +23,3 @@ The `.Rmd` file contains all code and analysis used to produce the final write-u
 - `tidyverse`
 - `mosaic`
 - `MatchIt`
-
-All methods and techniques used in this repo were taught in class and are based solely on lecture slides and the course textbook.
